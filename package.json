@@ -1,0 +1,26 @@
+{
+  "name": "meanstackapp",
+  "version": "1.0.0",
+  "description": "Learning mean",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vineshsingh90/MeanStackApp.git"
+  },
+  "keywords": [
+    "MeanstackAppUsingAngular-2"
+  ],
+  "author": "VineshSingh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vineshsingh90/MeanStackApp/issues"
+  },
+  "homepage": "https://github.com/vineshsingh90/MeanStackApp#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.11"
+  }
+}
